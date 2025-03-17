@@ -80,6 +80,9 @@ tubi.com
 www.tubi.com
 
 ###
+cdn.lputil.com
+config.fp.measure.office.com
+upload.fp.measure.office.com
 production-cmp.isgprivacy.cbsi.com
 rum.browser-intake-datadoghq.com
 data.microsoft.com
