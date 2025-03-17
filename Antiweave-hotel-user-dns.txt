@@ -86,6 +86,7 @@ upload.fp.measure.office.com
 5z3n95k1.r.us-west-2.awstrack.me
 production-cmp.isgprivacy.cbsi.com
 rum.browser-intake-datadoghq.com
+npwuscdn-onenote.azureedge.net
 data.microsoft.com
 azureedge.net
 activity.windows.com
