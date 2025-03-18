@@ -79,6 +79,10 @@ crunchyroll.com
 tubi.com
 www.tubi.com
 
+###Nightaudit
+https://lookmovie-la.123caches.re/
+https://123animehub.cc/
+
 ###
 cdn.lputil.com
 config.fp.measure.office.com
