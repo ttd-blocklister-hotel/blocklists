@@ -91,14 +91,11 @@ www.aniplexusa.com
 cdn.lputil.com
 config.fp.measure.office.com
 upload.fp.measure.office.com
-5z3n95k1.r.us-west-2.awstrack.me
-production-cmp.isgprivacy.cbsi.com
-rum.browser-intake-datadoghq.com
 npwuscdn-onenote.azureedge.net
-###
-cdn.lputil.com
-config.fp.measure.office.com
-upload.fp.measure.office.com
+s-ring.msedge.net
+cdn.segment.com
+npwuscdn-onenote.azureedge.net
+assets.emarsys.net
 
 
 ###
