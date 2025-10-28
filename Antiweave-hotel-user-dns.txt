@@ -8,6 +8,10 @@ us.shop.battle.net
 www.battle.net
 www.us.shop.battle.net
 limewire.com
+limewire.org
+limewire.net
+
+
 ###
 www.hulu.com
 hulu.com
