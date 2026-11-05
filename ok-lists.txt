@@ -1,0 +1,71 @@
+# --- Windows "No Internet" check (NCSI) ---
+.msftconnecttest.com
+.msftncsi.com
+
+# --- Captive portal detection (guest Wi-Fi login page pops up) ---
+captive.apple.com
+connectivitycheck.gstatic.com
+connectivitycheck.android.com
+clients3.google.com
+detectportal.firefox.com
+nmcheck.gnome.org
+
+# --- Certificate revocation (OCSP / CRL) - blocking = slow/broken HTTPS ---
+.ocsp.digicert.com
+.crl3.digicert.com
+.crl4.digicert.com
+hostedocsp.globalsign.com
+ocsp.globalsign.com
+crl.globalsign.com
+ocsp.sectigo.com
+crl.sectigo.com
+.o.lencr.org
+.i.lencr.org
+.c.lencr.org
+.oneocsp.microsoft.com
+.crl.microsoft.com
+.ocsp.msocsp.com
+.mscrl.microsoft.com
+
+# --- Windows Update / Store delivery ---
+.update.microsoft.com
+.windowsupdate.com
+.delivery.mp.microsoft.com
+.dsp.mp.microsoft.com
+.download.windowsupdate.com
+
+# --- Defender / SmartScreen (security, not telemetry) ---
+.smartscreen.microsoft.com
+.smartscreen-prod.microsoft.com
+wdcp.microsoft.com
+wdcpalt.microsoft.com
+.spynet2.microsoft.com
+.wd.microsoft.com
+
+# --- Microsoft sign-in ---
+login.microsoftonline.com
+login.microsoft.com
+login.live.com
+login.windows.net
+.msauth.net
+.msftauth.net
+.auth.gfx.ms
+
+# --- Microsoft 365 / Outlook / Teams core ---
+.office.com
+.office.net
+.office365.com
+.outlook.com
+.officeapps.live.com
+.online.office.com
+.cloud.microsoft
+.teams.microsoft.com
+.wns.windows.com
+officecdn.microsoft.com
+officeclient.microsoft.com
+go.microsoft.com
+aka.ms
+
+# --- Edge browser function (updates/sync) ---
+.edge.microsoft.com
+.msedge.net
