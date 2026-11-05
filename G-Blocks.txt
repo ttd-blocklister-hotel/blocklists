@@ -1,1 +1,94 @@
+# Light touch: scams, piracy, malvertising only
 
+use-application-dns.net
+
+# Scam / phishing
+ttlawcourt.gov-tt.qpon
+courtpay.ttlawcourt.gov-tt.qpon
+guestreservations.com
+auth-securi.com
+awninggalleryltd.com
+
+# Ad networks (malvertising carriers)
+doubleclick.net
+ad.doubleclick.net
+googlesyndication.com
+pagead2.googlesyndication.com
+adnxs.com
+criteo.com
+pubmatic.com
+openx.com
+rubiconproject.com
+serving-sys.com
+flashtalking.com
+
+# Piracy - movies / TV
+fmovies.to
+fmoviesz.to
+bflix.to
+braflix.ru
+soap2day.rs
+soap2dayhd.com
+putlocker.pe
+solarmovie.pe
+lookmovie.onl
+lookmovies.com
+123caches.re
+lookmovie-la.123caches.re
+moviesjoy.to
+movies7.to
+m4uhd.tv
+watchseries.mx
+watchserieshd.mx
+projectfreetv.lol
+primewire.mx
+yesmovies.ag
+yesmovies.mn
+ymovies.cc
+flixhq.to
+sflix.to
+hurawatch.at
+hurawatch.cc
+hdtoday.tv
+hdtoday.cc
+goojara.to
+123moviesfree.net
+123animehub.cc
+
+# Piracy - anime
+9animetv.to
+aniwatch.to
+zoro.to
+kaas.to
+animixplay.to
+gogoanime3.net
+gogoanime.fi
+gogoanime.pe
+animepahe.com
+anix.to
+4anime.gg
+
+# Piracy - sports
+vipbox.lc
+viprow.nu
+streameast.app
+streameast.to
+crackstreams.cx
+weakspell.to
+sportsurge.net
+
+# Torrent indexes
+thepiratebay.org
+1337x.to
+rargb.to
+yts.mx
+torrentgalaxy.to
+torrentz2.nz
+eztv.re
+limetorrents.lol
+kickasstorrents.to
+
+# IPTV
+xtream-codes.com
+xtream-ui.com
+iptvsmarters.com
